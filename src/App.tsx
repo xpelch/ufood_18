@@ -1,6 +1,5 @@
-import './App.css'
 import AppRouter from './router'
-
+import './styles/App.css'
 export const App: React.FC = () => {
 
   return (
