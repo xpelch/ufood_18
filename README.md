@@ -1,8 +1,3 @@
-Vérifier que Node est installé avec la commande:
-
-```bash
-node -v
-```
 
 Vérifier que Node est installé avec la commande:
 
@@ -20,7 +15,7 @@ npm install
 ## Développement
 
 ```bash
-# serve with hot reload at localhost:8080
+# serve with hot reload
 npm run serve
 ```
 
