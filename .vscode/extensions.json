@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "stringham.move-ts",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint",
+    "eamodio.gitlens",
+    "nucllear.vscode-extension-auto-import",
+    "christian-kohler.npm-intellisense",
+    "dsznajder.es7-react-js-snippets",
+    "esbenp.prettier-vscode"
+  ]
+}

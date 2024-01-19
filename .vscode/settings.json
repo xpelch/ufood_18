@@ -1,0 +1,28 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "always",
+    "source.organizeImports": "always"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // Prettier for everything except js/ts
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "autoimport.autoComplete": true,
+  "autoimport.filesToScan": "**/*.{js,jsx,ts,tsx}",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "editor.tabSize": 4,
+  "[css]": {
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+  }
+}
